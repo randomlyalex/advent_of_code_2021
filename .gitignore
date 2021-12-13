@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/active-tab-highlighter.xml
+/advent_of_code_2021.iml
+/sonarlint/issuestore/index.pb
+/misc.xml
+/modules.xml
+/inspectionProfiles/profiles_settings.xml
+/vcs.xml
+/.idea/active-tab-highlighter.xml
+/.idea/advent_of_code_2021.iml
+/.idea/sonarlint/issuestore/index.pb
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
